@@ -8,10 +8,6 @@
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **I'm a Music Producer**
 - 📫 How to reach me **ashakaegerega@gmail.com**
-
-
-<img align="right" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" alt="Code" width="500" height="400">
-
 ---
 
 ### Languages and Tools 🛠 
