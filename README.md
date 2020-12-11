@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashaka - aka shaqzee</h1>
 <h3 align="center">A Full-stack developer from Nigeria</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshakaE&label=Views&color=blue&style=plastic" alt="AshakaE" /> </p>
-
+ 
+---
 - 🔭 I’m currently working on **Microverse Fullstack Curriculum**
 - 🌱 I’m currently learning ... **React, Ruby, and Rails**
 - 💬 Ask me about ... **Web Develpoment**
