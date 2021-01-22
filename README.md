@@ -8,7 +8,7 @@
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **I'm a Music Producer**
-- 📫 How to reach me **ashakaegerega@gmail.com**
+- 📫 How to reach me [Mail](mailto:ashakaegerega@gmail.com)
 ---
 
 ### Languages and Tools 🛠 
