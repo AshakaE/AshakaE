@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashaka - aka shaqzee</h1>
 <h3 align="center">A Full-stack developer from Nigeria</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshakaE&label=Views&color=blue&style=plastic" alt="AshakaE" /> </p>
+ <!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-javascript-plain"></i>
  
 ---
 - 🔭 I’m currently working on **Microverse Fullstack Curriculum**
