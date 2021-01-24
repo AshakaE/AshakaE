@@ -20,7 +20,8 @@
 
 ![javascript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
