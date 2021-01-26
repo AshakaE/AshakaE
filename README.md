@@ -18,24 +18,24 @@
 
 ### Languages and Tools 🛠 
 
-![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
-![JQuery](https://icongr.am/devicon/jquery-original-wordmark.svg?size=50&color=currentColor)
+![JQuery](https://icongr.am/devicon/jquery-original.svg?size=50&color=currentColor)
 ![javascript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Vuejs](https://icongr.am/devicon/vuejs-original-wordmark.svg?size=50&color=currentColor)
+![Vuejs](https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![Nodejs](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=50&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=currentColor)
-![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
-![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
-![Sql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor)
-![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=currentColor)
-![Git](https://icongr.am/devicon/git-original-wordmark.svg?size=50&color=currentColor)
-![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=50&color=currentColor)
-![Heroku](https://icongr.am/devicon/heroku-original-wordmark.svg?size=50&color=currentColor)
+![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![Rails](https://icongr.am/devicon/rails-original.svg?size=50&color=currentColor)
+![Npm](https://icongr.am/devicon/npm-original.svg?size=50&color=currentColor)
+![Sql](https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor)
+![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor)
+![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
+![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
+![Heroku](https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor)
 ![Ai](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor)
-![Slack](https://icongr.am/devicon/slack-original-wordmark.svg?size=50&color=currentColor)
+![Slack](https://icongr.am/devicon/slack-original.svg?size=50&color=currentColor)
 
 
 <br/>
