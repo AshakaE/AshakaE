@@ -33,8 +33,10 @@
 ![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original-wordmark.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original-wordmark.svg?size=50&color=currentColor)
+![Heroku](https://icongr.am/devicon/heroku-original-wordmark.svg?size=50&color=currentColor)
 ![Ai](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor)
 ![Slack](https://icongr.am/devicon/slack-original-wordmark.svg?size=50&color=currentColor)
+
 
 <br/>
 
