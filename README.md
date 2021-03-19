@@ -33,7 +33,7 @@
 ![Ai](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor)
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
-![Sql](https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor)
+![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
 ![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
