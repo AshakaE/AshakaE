@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashaka - aka shaqzee</h1>
-<h3 align="center">A Full-stack developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Ashaka - aka Shaqzee.</h1>
+<h3 align="center">A Full-stack developer from Nigeria.</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshakaE&label=Views&color=blue&style=plastic" alt="AshakaE" /> </p>
  <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
@@ -8,15 +8,15 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-- 🔭 I’m currently working on the **Microverse Fullstack Curriculum**
-- 🌱 I’m currently learning ... **React, Ruby, and Ruby on Rails**
-- 💬 Ask me about ... **Web Development**
-- 😄 Employment ... **Open for intern opportunities**
-- ⚡ Fun fact ... **I'm a Music Producer**
+- 🔭 I’m currently working on the **Microverse Fullstack Curriculum.**
+- 🌱 I’m learning ... **React, Ruby, and Ruby on Rails.**
+- 💬 Ask me about ... **Web Development.**
+- 😄 Employment ... **Open for intern opportunities.**
+- ⚡ Fun fact ... **I'm a Music Producer.**
 - 📫 How to reach me [Mail](mailto:ashakaegerega@gmail.com)
 ---
 
-### Languages 🚧 
+### Languages. 🚧 
 
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
@@ -28,7 +28,7 @@
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
 
-### Tools 🛠 
+### Tools. 🛠 
 
 ![Ai](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor)
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
