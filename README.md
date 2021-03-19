@@ -8,10 +8,10 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-- 🔭 I’m currently working on **Microverse Fullstack Curriculum**
-- 🌱 I’m currently learning ... **React, Ruby, and Rails**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
+- 🔭 I’m currently working on the **Microverse Fullstack Curriculum**
+- 🌱 I’m currently learning ... **React, Ruby, and Ruby on Rails**
+- 💬 Ask me about ... **Web Development**
+- 😄 Employment ... **Open for intern opportunities**
 - ⚡ Fun fact ... **I'm a Music Producer**
 - 📫 How to reach me [Mail](mailto:ashakaegerega@gmail.com)
 ---
