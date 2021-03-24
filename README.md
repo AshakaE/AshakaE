@@ -13,7 +13,7 @@
 - 💬 Ask me about ... **Web Development.**
 - 😄 Employment ... **Open for intern opportunities.**
 - ⚡ Fun fact ... **I'm a Music Producer.**
-- 📫 How to reach me [Mail](mailto:ashakaegerega@gmail.com)
+<!-- - 📫 How to reach me [Mail](mailto:ashakaegerega@gmail.com) -->
 ---
 
 ### Languages. 🚧 
