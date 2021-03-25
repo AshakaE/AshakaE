@@ -27,6 +27,7 @@
 ![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
+![Golang](https://icongr.am/devicon/go-original.svg?size=50&color=currentColor)
 
 ### Tools. 🛠 
 
@@ -39,6 +40,7 @@
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
 ![Heroku](https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor)
 ![Slack](https://icongr.am/devicon/slack-original.svg?size=50&color=currentColor)
+![Webpack](https://icongr.am/devicon/webpack-original.svg?size=508&color=currentColor)
 
 
 <br/>
