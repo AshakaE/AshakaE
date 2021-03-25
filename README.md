@@ -40,7 +40,7 @@
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
 ![Heroku](https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor)
 ![Slack](https://icongr.am/devicon/slack-original.svg?size=50&color=currentColor)
-![Webpack](https://icongr.am/devicon/webpack-original.svg?size=258&color=currentColor)
+![Webpack](https://icongr.am/devicon/webpack-original.svg?size=58&color=currentColor)
 
 
 <br/>
