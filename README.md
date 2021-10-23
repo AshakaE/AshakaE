@@ -8,7 +8,7 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-- 🔭 I’m currently working on the **Microverse Full stack Curriculum.**
+- 🔭 I’m currently working on the **Microverse full stack curriculum.**
 - 🌱 I’m learning ... **React, Ruby, and Ruby on Rails.**
 - 💬 Ask me about ... **Web Development.**
 - 😄 Employment ... **Open to new opportunities.**
