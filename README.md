@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashaka - aka Shaqzee.</h1>
+<h1 align="center">Hi 👋, I'm Ashaka </h1>
 <h3 align="center">A Full-stack developer from Nigeria.</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshakaE&label=Views&color=blue&style=plastic" alt="AshakaE" /> </p>
  <!-- in your header -->
