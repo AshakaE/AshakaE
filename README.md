@@ -10,9 +10,9 @@
 ---
 - 🔭 I’m currently working on the **Microverse full stack curriculum.**
 - 🌱 I’m learning ... **React, Ruby, and Ruby on Rails.**
-- 💬 Ask me about ... **Web Development.**
+- 💬 Ask me about ... **Web development.**
 - 😄 Employment ... **Open to new opportunities.**
-- ⚡ Fun fact ... **I'm a Music Producer.**
+- ⚡ Fun fact ... **I'm a music producer.**
 <!-- - 📫 How to reach me [Mail](mailto:ashakaegerega@gmail.com) -->
 ---
 
