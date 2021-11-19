@@ -8,7 +8,7 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-- 🔭 I’m currently working as **Part-time code reviewer**
+- 🔭 I’m currently working as **code reviewer**
 - 🌱 I’m learning ... **Node.js and Typescript**
 - 💬 Ask me about ... **Web development.**
 - 😄 Employment ... **Open to new opportunities.**
