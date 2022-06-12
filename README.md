@@ -9,7 +9,7 @@
  
 ---
 - 🔭 I’m currently working as **code reviewer**
-- 🌱 I’m learning ... **Golang and Typescript**
+- 🌱 I’m learning ... **Golang and Web3**
 - 💬 Ask me about ... **Web development.**
 - 😄 Employment ... **Open to new opportunities.**
 - ⚡ Fun fact ... **I'm a music producer.**
