@@ -22,11 +22,10 @@
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
-![Vuejs](https://icongr.am/devicon/vuejs-original.svg?size=50&color=currentColor)
+
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
-![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
+
 ![Golang](https://icongr.am/devicon/go-original.svg?size=50&color=currentColor)
 
 ### Tools. 🛠 
@@ -37,10 +36,8 @@
 ![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
 ![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
-![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
-![Heroku](https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor)
 ![Slack](https://icongr.am/devicon/slack-original.svg?size=50&color=currentColor)
-![Webpack](https://icongr.am/devicon/webpack-original.svg?size=58&color=currentColor)
+
 
 
 <br/>
