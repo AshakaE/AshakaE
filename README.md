@@ -8,7 +8,7 @@
 <i class="devicon-javascript-plain"></i>
  
 ---
-- 🔭 I’m currently working as **code reviewer**
+- 🔭 I’m currently working as **Backend Engineer**
 - 🌱 I’m learning ... **Golang and Web3**
 - 💬 Ask me about ... **Web development.**
 - 😄 Employment ... **Open to new opportunities.**
