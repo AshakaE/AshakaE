@@ -6,13 +6,6 @@
 
 <!-- in your body -->
 <i class="devicon-javascript-plain"></i>
- 
----
-- 🔭 I’m currently working as **Backend Engineer**
-- 🌱 I’m learning ... **Golang and Web3**
-- 💬 Ask me about ... **Web development.**
-- 😄 Employment ... **Open to new opportunities.**
-- ⚡ Fun fact ... **I'm a music producer.**
 <!-- - 📫 How to reach me [Mail](mailto:ashakaegerega@gmail.com) -->
 ---
 
