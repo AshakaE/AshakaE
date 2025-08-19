@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashaka </h1>
-<h3 align="center">A full stack developer from Nigeria.</h3>
+<h3 align="center">A Full Stack Engineer</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshakaE&label=Views&color=blue&style=plastic" alt="AshakaE" /> </p>
  <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
