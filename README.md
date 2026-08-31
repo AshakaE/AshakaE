@@ -10,25 +10,10 @@
 ---
 
 ### Languages. 🚧 
-[![My Skills](https://skillicons.dev/icons?i=java,go,kotlin,typescript,react,node)](https://skillicons.dev)
-![JAVA](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
-[![.Net](https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor)
-![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
-![Golang](https://icongr.am/devicon/go-original.svg?size=50&color=currentColor)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,kotlin,ts,react,nodejs,nestjs,nextjs)](https://linkedin.com/in/AshakaE)
 
 ### Tools. 🛠 
-
-![Ai](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=currentColor)
-![Ubuntu](https://icongr.am/devicon/ubuntu-plain.svg?size=50&color=currentColor)
-![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
-![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
-![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor)
-![Docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor)
-![Slack](https://icongr.am/devicon/slack-original.svg?size=50&color=currentColor)
-
-
+[![My Skills](https://skillicons.dev/icons?i=nginx,postgres,mongodb,redis,npm,kafka,postman,prometheus,rabbitmq,sentry,selenium,cassandra,jenkins,terraform,linux,docker,vscode,aws,discord,gcp,grafana,gradle,kubernetes)](https://linkedin.com/in/AshakaE)
 
 <br/>
 
