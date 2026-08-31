@@ -10,7 +10,7 @@
 ---
 
 ### Languages. 🚧 
-[![My Skills](https://skillicons.dev/icons?i=java,go,kotlin,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,kotlin,typescript,react,node)](https://skillicons.dev)
 ![JAVA](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
 [![.Net](https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor)
 ![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
