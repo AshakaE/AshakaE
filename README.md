@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,go,kotlin,ts,react,nodejs,nestjs,nextjs)](https://linkedin.com/in/AshakaE)
 
 ### Tools. 🛠 
-[![My Skills](https://skillicons.dev/icons?i=nginx,postgres,mongodb,redis,npm,kafka,postman,prometheus,rabbitmq,sentry,selenium,cassandra,jenkins,terraform,linux,docker,vscode,aws,discord,gcp,grafana,gradle,kubernetes)](https://linkedin.com/in/AshakaE)
+[![My Skills](https://skillicons.dev/icons?i=nginx,postgres,mongodb,redis,npm,kafka,postman,prometheus,rabbitmq,sentry,selenium,cassandra,jenkins,terraform,linux,docker,vscode,aws,discord,gcp,grafana,gradle,kubernetes&perline=9)](https://linkedin.com/in/AshakaE)
 
 <br/>
 
