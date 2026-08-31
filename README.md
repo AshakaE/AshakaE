@@ -11,8 +11,8 @@
 
 ### Languages. 🚧 
 
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
+![JAVA](https://icongr.am/devicon/java-original.svg?size=128&color=currentColor)
+![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
