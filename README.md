@@ -18,17 +18,13 @@
 <br/>
 
 
----
 
-**Github Stats:**
 
-<p align="center">
+<!-- <p align="center"> -->
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AshakaE&hide=stars&show_icons=true&theme=algolia&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshakaE&count_private=true&theme=algolia">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AshakaE&hide=stars&show_icons=true&theme=algolia&line_height=32"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshakaE&count_private=true&theme=algolia"> -->
 
-</p>
-
----
+<!-- </p> -->
 
 
